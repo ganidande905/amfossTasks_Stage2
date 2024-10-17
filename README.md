@@ -15,3 +15,5 @@ I also checked out a website that gave me the scoop on adding time delays (becau
 - [YouTube Video](https://youtu.be/bfVxq-oQA3c?si=TBdvnJW-YviP8pFi) (My guide through the magical world of scraping)
 - [Website1](https://pkg.go.dev/bufio) (For all your Go needs)
 - [Website2](https://webscraping.ai/faq/colly/how-do-i-limit-the-rate-of-requests-in-colly-to-avoid-being-blocked) (Because we like to play nice with servers)
+  ## OUTPUT:
+![image](https://github.com/user-attachments/assets/0f8696a9-7379-4f3f-bccf-a5723e9a4039)
