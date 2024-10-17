@@ -1,6 +1,6 @@
 ## How I Built It
 
-I tackled the club entry task by diving into web scraping with Go, thanks to a super chill YouTube tutorial on __[Web Scraping using Go lang]__. The video was a lifesaver—without it, I’d probably still be staring at my screen in confusion!
+I tackled the club entry task by diving into web scraping with Go, thanks to a super chill YouTube tutorial on __Web Scraping using Go lang__. The video was a lifesaver—without it, I’d probably still be staring at my screen in confusion!
 
 I also checked out a website that gave me the scoop on adding time delays (because who likes getting blocked, right?).
 
